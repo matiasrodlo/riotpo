@@ -1,0 +1,936 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SYN Media WooCommerce Rewards v2.0.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-03-02 18:04:39+0000\n"
+"Last-Translator: admin <legenden67@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: CHILE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: classes/class-wc-reward.php:25
+#@ woocommerce
+msgid "Settings"
+msgstr ""
+
+#: classes/class-wc-rewards-referafriend.php:16
+#: classes/class-wc-rewards-referafriend.php:46
+#: swr-refer-a-friend.php:141
+#: templates/my-rewards.php:135
+#@ woocommerce
+#@ rewards
+msgid "Refer a friend"
+msgstr ""
+
+#: classes/class-wc-rewards-referafriend.php:17
+#@ woocommerce
+msgid "Refer a friend is a system of referral for the client. It give the client a way to email is friend about your website with a unique link to track the friend's order"
+msgstr ""
+
+#: classes/class-wc-rewards-referafriend.php:47
+#@ woocommerce
+msgid "Enable Refer a friend"
+msgstr ""
+
+#: classes/class-wc-rewards-referafriend.php:52
+#@ wc_rewards
+msgid "Minimum Order Amount"
+msgstr ""
+
+#: classes/class-wc-rewards-referafriend.php:56
+#@ wc_rewards
+msgid "Minimum order amount to activate the rewards. Ex.: 100"
+msgstr ""
+
+#: classes/class-wc-rewards-referafriend.php:59
+#@ wc_rewards
+msgid "Client apply to"
+msgstr ""
+
+#: classes/class-wc-rewards-referafriend.php:61
+#: classes/class-wc-rewards-referafriend.php:82
+#@ wc_rewards
+msgid "Select if a rewards should be given to the first order, any order but just one time or any order that the friend make."
+msgstr ""
+
+#: classes/class-wc-rewards-referafriend.php:66
+#: classes/class-wc-rewards-referafriend.php:87
+#@ wc_rewards
+msgid "First order only"
+msgstr ""
+
+#: classes/class-wc-rewards-referafriend.php:67
+#: classes/class-wc-rewards-referafriend.php:88
+#@ wc_rewards
+msgid "One order but not exclusively the first"
+msgstr ""
+
+#: classes/class-wc-rewards-referafriend.php:68
+#: classes/class-wc-rewards-referafriend.php:89
+#@ wc_rewards
+msgid "Any order that meet the min. order amount."
+msgstr ""
+
+#: classes/class-wc-rewards-referafriend.php:73
+#@ wc_rewards
+msgid "Referer rewards"
+msgstr ""
+
+#: classes/class-wc-rewards-referafriend.php:77
+#@ wc_rewards
+msgid "Enter the referer rewards.<br />3 possibilities: X%, X/Y, X.<br /><br />Ex.: 1% of the order, 1/20 1 rewards per each 20$ purchase, 2 rewards each time."
+msgstr ""
+
+#: classes/class-wc-rewards-referafriend.php:80
+#@ wc_rewards
+msgid "Friend apply to"
+msgstr ""
+
+#: classes/class-wc-rewards-referafriend.php:94
+#@ wc_rewards
+msgid "Friend rewards"
+msgstr ""
+
+#: classes/class-wc-rewards-referafriend.php:98
+#@ wc_rewards
+msgid "Enter the friend rewards.<br />3 possibilities: X%, X/Y, X.<br /><br />Ex.: 1% of the order, 1/20 1 rewards per each 20$ purchase, 2 rewards each time."
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:31
+#@ woocommerce
+msgid "Rewards Options"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:32
+#@ woocommerce
+msgid "Rewards offer your client the possibility of earning credit to your store. "
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:32
+#@ woocommerce
+msgid "Pages have already been created, but if you want to create them anyway <a href=\"admin.php?page=pagepage&tab=tabtab&install_swr_pages=1\">click here</a>."
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:32
+#@ woocommerce
+msgid "To create the page \"My rewards\" into the site, <a href=\"admin.php?page=pagepage&tab=tabtab&install_swr_pages=1\">click here</a>."
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:32
+#@ woocommerce
+msgid "To give rewards to older orders based on your current settings <a href=\"admin.php?page=pagepage&tab=tabtab&give_older_orders_rewards=1\">click here</a>."
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:32
+#@ woocommerce
+msgid "Pages have been created!"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:32
+#@ woocommerce
+msgid "Rewards have been given to older review!"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:122
+#@ woocommerce
+msgid "Rewards system"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:123
+#@ woocommerce
+msgid "Enable the Rewards system"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:128
+#@ woocommerce
+msgid "Rewards title"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:131
+#@ woocommerce
+msgid "The title to appear throughout your website. Ex.: Website's rewards"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:134
+#@ woocommerce
+msgid "Rewards type"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:136
+#@ woocommerce
+msgid "The type of rewards you want to use. Money or points"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:141
+#@ woocommerce
+msgid "Money"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:142
+#@ woocommerce
+msgid "Points"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:147
+#@ woocommerce
+msgid "Calculation type"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:149
+#, php-format
+#@ woocommerce
+msgid "How to calculate rewards.<br /><br />Percentage and point per currency: Will give a customer X%% of the order and calculate points based on how much a dollar is worth in points. Ex.: 3%% will give %s for an order of %s.<br /><br />Fraction and point value: Will give a customer X points per X amount spend and calculate value of points based on how much a point is worth. Ex.: 2/10 will give 2 points per %s."
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:154
+#: classes/class-wc-rewards-settings.php:160
+#@ woocommerce
+msgid "Percentage"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:155
+#: classes/class-wc-rewards-settings.php:168
+#@ woocommerce
+msgid "Fraction"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:161
+#, php-format
+#@ woocommerce
+msgid "Will give <span id=\"swr_percentage_value_enter\">X</span> for an order of %s"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:165
+#@ woocommerce
+msgid "Percentage of rewards for each order. Ex.: 3%. You can add decimal too. Ex.: 2.75%"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:169
+#, php-format
+#@ woocommerce
+msgid " Ex.: 1/10 will give 1 point for each %s spend, 3/20 will give 3 points for each %s spend."
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:176
+#@ woocommerce
+msgid "Fraction type"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:178
+#, php-format
+#@ woocommerce
+msgid "The fraction type determine if a user should get partial points. Ex.: An order of %s with a fraction of 2/10 will give the customer 3.6 points in Loose, 3 in Loose with floor rounding, 2 in Strict."
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:183
+#@ woocommerce
+msgid "Loose"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:184
+#@ woocommerce
+msgid "Loose with floor rounding"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:185
+#@ woocommerce
+msgid "Strict"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:190
+#@ woocommerce
+msgid "How to use the rewards"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:192
+#@ woocommerce
+msgid "Determine how the customer will use his rewards.<br /><br />Points value:<br />Will give the customer a choice to redeem his rewards has money in the cart.<br /><br />Specific product:<br />Only specified product can be bought with their points, you must enter a value in points for each product."
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:197
+#: classes/class-wc-rewards-settings.php:210
+#: classes/class-wc-rewards-settings.php:1056
+#@ woocommerce
+#@ syn_rewards
+msgid "Points value"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:198
+#@ woocommerce
+msgid "Table of predefined points value"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:203
+#@ woocommerce
+msgid "Points per currency"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:204
+#, php-format
+#@ woocommerce
+msgid "points = %s (Only used in Points)"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:211
+#@ woocommerce
+msgid "= 1 point"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:217
+#@ woocommerce
+msgid "Minimum points"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:221
+#@ woocommerce
+msgid "Minimum points to be able to cash in. Ex.: 15 points minimum to let the customer use is points. Leave blank to let any points beeing used."
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:227
+#@ woocommerce
+msgid "Rewards to rewards"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:230
+#, php-format
+#@ woocommerce
+msgid "Give rewards to order that use rewards.<br /><br />Rewards to rewards checked:<br />An order of %s with a percentage of 2%% and customer used is bank of %s will give %s.<br /><br />Rewards to rewards not checked:<br />An order of %s with a percentage of 2%% and customer used is bank of %s will give %s."
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:233
+#@ woocommerce
+msgid "Deduct shipping with rewards"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:236
+#@ wc_rewards
+msgid "Use rewards value to deduct the shipping cost. If not enabled, the customer will always have to pay for shipping."
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:239
+#@ woocommerce
+msgid "Where to apply the reward"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:244
+#@ woocommerce
+msgid "Total"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:245
+#@ woocommerce
+msgid "Subtotal"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:246
+#@ woocommerce
+msgid "Total without shipping"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:249
+#@ woocommerce
+msgid "Select where to apply the rewards, from the total, subtotal or the total without shipping."
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:252
+#@ woocommerce
+msgid "Select roles that can use rewards"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:260
+#@ wc_rewards
+msgid "Payment gateways extra's"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:268
+#@ wc_rewards
+msgid "Display settings"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:273
+#@ wc_rewards
+msgid "Rewards page description"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:280
+#@ woocommerce
+msgid "Where to show the rewards amount of the cart"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:285
+#: classes/class-wc-rewards-settings.php:309
+#@ woocommerce
+msgid "Show on top of cart"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:286
+#@ woocommerce
+msgid "Show below the cart products table"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:287
+#: classes/class-wc-rewards-settings.php:311
+#@ woocommerce
+msgid "Show below the cart totals"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:288
+#@ woocommerce
+msgid "Show below the shipping calculator"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:289
+#@ woocommerce
+msgid "Show before the order checkout form"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:290
+#@ woocommerce
+msgid "Show below the order checkout form"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:291
+#@ woocommerce
+msgid "Show below the order thanks"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:292
+#@ woocommerce
+msgid "Show on top of the rewards page"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:293
+#@ woocommerce
+msgid "Show below single product price"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:304
+#@ woocommerce
+msgid "\"Use my rewards\" location"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:310
+#@ woocommerce
+msgid "Show on top of the cart products table"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:314
+#@ woocommerce
+msgid "Where to show the checkbox Use my rewards for this order on the checkout page."
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:317
+#@ wc_rewards
+msgid "Reviews settings"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:322
+#@ woocommerce
+msgid "Rewards review"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:323
+#: classes/class-wc-rewards-settings.php:341
+#@ woocommerce
+msgid "Give rewards to customer when they review an item they bought"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:328
+#: classes/class-wc-rewards-settings.php:346
+#@ woocommerce
+msgid "Rewards amount"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:332
+#@ woocommerce
+msgid "How much to give for a customer who review an item"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:335
+#@ wc_rewards
+msgid "Subscribe settings"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:340
+#@ woocommerce
+msgid "Rewards subscription"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:349
+#@ woocommerce
+msgid "How much to give for a customer who subscribe to your website."
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:949
+#@ wc_rewards
+msgid "Select a page&hellip;"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:970
+#: classes/class-wc-rewards-settings.php:1048
+#@ wc_rewards
+msgid "Payment Gateways"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:989
+#@ wc_rewards
+msgid "Payment Gateway"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:990
+#@ wc_rewards
+msgid "Extra rewards"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:990
+#@ wc_rewards
+msgid "Here you can set how much rewards should be added.<br /><br />Possible values are :<br />3% for 3% more of the order total<br />1/20 for 1 points more for each 20$<br />3 for 3 points more.<br /><br />Leave blank for no extra"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:1054
+#@ syn_rewards
+msgid "Number of points"
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:1054
+#@ syn_rewards
+msgid "This is the number of points required to use the value in currency."
+msgstr ""
+
+#: classes/class-wc-rewards-settings.php:1056
+#@ syn_ups
+msgid "Ex.: 3.34"
+msgstr ""
+
+#: classes/class-wc-rewards-update.php:15
+#@ woocommerce
+msgid "Updates"
+msgstr ""
+
+#: classes/class-wc-rewards-update.php:16
+#@ woocommerce
+msgid "Give you access to updates directly from Wordpress"
+msgstr ""
+
+#: classes/class-wc-rewards-update.php:38
+#@ woocommerce
+msgid "Licence certificate"
+msgstr ""
+
+#: classes/class-wc-rewards-update.php:41
+#@ woocommerce
+msgid "Licence certificate ID, can be found on your CodeCanyon account -> Downloads and click on the 'Licence Certificate' link on my plugin. It should download a .txt file that contain a line with 'Item Purchase Code:', just copy the code here!"
+msgstr ""
+
+#: swr-base.php:275
+#, php-format
+#@ rewards
+msgid "You'll earn <del class=\"swr_old_reward\">%s</del> <ins class=\"swr_new_reward\">%s</ins> <a href=\"%s\">%s</a>"
+msgstr ""
+
+#: swr-base.php:279
+#, php-format
+#@ rewards
+msgid "You'll earn <del class=\"swr_old_reward\">%s</del> <ins class=\"swr_new_reward\">%s</ins> %s"
+msgstr ""
+
+#: swr-base.php:287
+#, php-format
+#@ rewards
+msgid "You'll earn <span class=\"swr_new_reward\">%s</span> <a href=\"%s\">%s</a>"
+msgstr ""
+
+#: swr-base.php:291
+#, php-format
+#@ rewards
+msgid "You'll earn <span class=\"swr_new_reward\">%s</span> %s"
+msgstr ""
+
+#: swr-base.php:338
+#, php-format
+#@ rewards
+msgid "Apply my %s in %s to this order."
+msgstr ""
+
+#: swr-base.php:346
+#, php-format
+#@ rewards
+msgid "Apply %s %s for a discount of %s to this order."
+msgstr ""
+
+#: swr-base.php:458
+#, php-format
+#@ rewards
+msgid "Customer applied %s %s to this order."
+msgstr ""
+
+#: swr-base.php:478
+#, php-format
+#@ rewards
+msgid "You have earned %s <a href=\"%s\">%s</a> for this order"
+msgstr ""
+
+#: swr-base.php:482
+#, php-format
+#@ rewards
+msgid "You have earned %s %s for this order"
+msgstr ""
+
+#: swr-base.php:490
+#, php-format
+#@ rewards
+msgid "You've missed a great chance to earn %s <a href=\"%s\">%s</a> for this order."
+msgstr ""
+
+#: swr-base.php:494
+#, php-format
+#@ rewards
+msgid "You've missed a great chance to earn %s %s for this order."
+msgstr ""
+
+#: swr-base.php:533
+#, php-format
+#@ rewards
+msgid "You'll earn %s <a href=\"%s\">%s</a> for this order"
+msgstr ""
+
+#: swr-base.php:537
+#, php-format
+#@ rewards
+msgid "You'll earn %s %s for this order"
+msgstr ""
+
+#: swr-base.php:545
+#, php-format
+#@ rewards
+msgid "<a href=\"%s\">Create an account</a> and earn %s <a href=\"%s\">%s</a> for this order"
+msgstr ""
+
+#: swr-base.php:549
+#, php-format
+#@ rewards
+msgid "<a href=\"%s\">Create an account</a> and earn %s %s for this order"
+msgstr ""
+
+#: swr-base.php:579
+#, php-format
+#@ rewards
+msgid "Customer earned %s in %s."
+msgstr ""
+
+#: swr-base.php:596
+#, php-format
+#@ rewards
+msgid "Removed %s %s."
+msgstr ""
+
+#: swr-base.php:737
+#: swr-base.php:1024
+#: swr-base.php:1142
+#: swr-user-rewards-details.php:5
+#: swr-user-rewards-details.php:32
+#@ rewards
+msgid "Rewards"
+msgstr ""
+
+#: swr-base.php:741
+#, php-format
+#@ rewards
+msgid "Current %s earned"
+msgstr ""
+
+#: swr-base.php:766
+#: templates/my-rewards.php:24
+#, php-format
+#@ rewards
+msgid "Current %s balance: %s"
+msgstr ""
+
+#: swr-base.php:770
+#: swr-user-rewards-details.php:60
+#: templates/my-rewards.php:37
+#@ rewards
+msgid "Orders"
+msgstr ""
+
+#: swr-base.php:775
+#: swr-user-rewards-details.php:81
+#: swr-user-rewards-details.php:93
+#: templates/my-rewards.php:42
+#@ rewards
+msgid "Order"
+msgstr ""
+
+#: swr-base.php:776
+#: swr-base.php:836
+#: templates/my-rewards.php:43
+#: templates/my-rewards.php:103
+#: templates/my-rewards.php:142
+#@ rewards
+msgid "Total earned"
+msgstr ""
+
+#: swr-base.php:777
+#: templates/my-rewards.php:44
+#@ rewards
+msgid "Total Used"
+msgstr ""
+
+#: swr-base.php:778
+#: swr-base.php:837
+#: swr-user-rewards-details.php:85
+#: swr-user-rewards-details.php:97
+#: templates/my-rewards.php:45
+#: templates/my-rewards.php:104
+#: templates/my-rewards.php:143
+#@ rewards
+msgid "Status"
+msgstr ""
+
+#: swr-base.php:805
+#: templates/my-rewards.php:72
+#@ rewards
+msgid "You have no recent orders."
+msgstr ""
+
+#: swr-base.php:829
+#: templates/my-rewards.php:96
+#@ rewards
+msgid "Reviews"
+msgstr ""
+
+#: swr-base.php:834
+#: swr-user-rewards-details.php:87
+#: swr-user-rewards-details.php:99
+#: templates/my-rewards.php:101
+#: templates/my-rewards.php:140
+#@ rewards
+msgid "Date"
+msgstr ""
+
+#: swr-base.php:835
+#: templates/my-rewards.php:102
+#@ rewards
+msgid "Product"
+msgstr ""
+
+#: swr-base.php:854
+#: templates/my-rewards.php:121
+#@ rewards
+msgid "You have to review an item first"
+msgstr ""
+
+#: swr-base.php:902
+#, php-format
+#@ rewards
+msgid "%s earned:"
+msgstr ""
+
+#: swr-base.php:908
+#, php-format
+#@ rewards
+msgid "%s used:"
+msgstr ""
+
+#: swr-base.php:1028
+#@ rewards
+msgid "Earned:"
+msgstr ""
+
+#: swr-base.php:1034
+#@ rewards
+msgid "Used:"
+msgstr ""
+
+#: swr-base.php:1041
+#@ rewards
+msgid "Calc rewards &rarr;"
+msgstr ""
+
+#: swr-base.php:1065
+#: swr-base.php:1097
+#, php-format
+#@ rewards
+msgid "Required %s"
+msgstr ""
+
+#: swr-base.php:1067
+#: swr-base.php:1093
+#, php-format
+#@ rewards
+msgid "Extra %s"
+msgstr ""
+
+#: swr-base.php:1079
+#, php-format
+#@ rewards
+msgid " or %s %s"
+msgstr ""
+
+#: swr-base.php:1086
+#, php-format
+#@ rewards
+msgid "Buy with %s"
+msgstr ""
+
+#: swr-base.php:1177
+#, php-format
+#@ rewards
+msgid "Your %s %s are now available."
+msgstr ""
+
+#: swr-coupon.php:4
+#@ rewards
+msgid "Rewards Bonus"
+msgstr ""
+
+#: swr-coupon.php:5
+#@ rewards
+msgid "Rewards % Bonus"
+msgstr ""
+
+#: swr-product-type.php:19
+#: swr-product-type.php:26
+#@ wc_rewards
+msgid "Rewards certificate"
+msgstr ""
+
+#: swr-refer-a-friend.php:124
+#@ rewards
+msgid "Please enter at least one valid email address"
+msgstr ""
+
+#: swr-refer-a-friend.php:141
+#@ rewards
+msgctxt "page_slug"
+msgid "refer-a-friend"
+msgstr ""
+
+#: swr-settings.php:15
+#@ rewards
+msgctxt "page_slug"
+msgid "view-rewards"
+msgstr ""
+
+#: swr-settings.php:15
+#@ rewards
+msgid "View Rewards"
+msgstr ""
+
+#: swr-user-rewards-details.php:48
+#@ rewards
+msgid "Show all customers"
+msgstr ""
+
+#: swr-user-rewards-details.php:59
+#@ rewards
+msgid "Show all types"
+msgstr ""
+
+#: swr-user-rewards-details.php:61
+#@ rewards
+msgid "Comments"
+msgstr ""
+
+#: swr-user-rewards-details.php:82
+#: swr-user-rewards-details.php:94
+#@ rewards
+msgid "Customer"
+msgstr ""
+
+#: swr-user-rewards-details.php:83
+#: swr-user-rewards-details.php:95
+#@ rewards
+msgid "Earned"
+msgstr ""
+
+#: swr-user-rewards-details.php:84
+#: swr-user-rewards-details.php:96
+#@ rewards
+msgid "Used"
+msgstr ""
+
+#: swr-user-rewards-details.php:86
+#: swr-user-rewards-details.php:98
+#@ rewards
+msgid "Type"
+msgstr ""
+
+#: syn-updates/syn_auto_update.php:124
+#@ default
+msgid "An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: syn-updates/syn_auto_update.php:129
+#@ default
+msgid "An unknown error occurred"
+msgstr ""
+
+#: templates/my-rewards.php:141
+#@ rewards
+msgid "Username"
+msgstr ""
+
+#: templates/my-rewards.php:153
+#@ wc_rewards
+msgid "Waiting order completion"
+msgstr ""
+
+#: templates/my-rewards.php:153
+#@ wc_rewards
+msgid "Completed"
+msgstr ""
+
+#: templates/my-rewards.php:160
+#@ wc_rewards
+msgid "No friend subscribed."
+msgstr ""
+
+#: templates/my-rewards.php:170
+#, php-format
+#@ rewards
+msgid "Your user role cannot use or get %s, if you think this is a mistake you can contact us."
+msgstr ""
+
+#: templates/refer-a-friend.php:24
+#@ rewards
+msgid "Email addresses"
+msgstr ""
+
+#: templates/refer-a-friend.php:24
+#@ rewards
+msgid "Enter your friend's email addresses, separated by commas"
+msgstr ""
+
+#: templates/refer-a-friend.php:26
+#@ rewards
+msgid "Your message (optional)"
+msgstr ""
+
+#: templates/refer-a-friend.php:26
+#@ rewards
+msgid "Enter the message you want to send to your friends"
+msgstr ""
+
+#: templates/refer-a-friend.php:28
+#@ rewards
+msgid "Send invitations"
+msgstr ""
+
+#: templates/refer-a-friend.php:45
+#@ rewards
+msgid "Place your first order and earn more rewards than ordinary."
+msgstr ""
+

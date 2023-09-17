@@ -1,0 +1,1859 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: The Retailer v1.6.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-04-13 12:48-0600\n"
+"Last-Translator: admin <legenden67@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ theretailer
+#: 404.php:22
+msgid ""
+"Los gólems de mantenimiento están trabajando para acabar con el problema. "
+"<br />Vuelve al "
+msgstr ""
+
+# @ theretailer
+#: 404.php:22
+msgid "Inicio"
+msgstr ""
+
+# @ theretailer
+#: admin/classes/class.options_machine.php:462
+msgid "Last Backup : "
+msgstr ""
+
+# @ theretailer
+#: admin/front-end/options.php:43 admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+# @ theretailer
+#: admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+# @ theretailer
+#: admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr ""
+
+# @ theretailer
+#: admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr ""
+
+# @ theretailer
+#: admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr ""
+
+# @ theretailer
+#: archive.php:26
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+# @ theretailer
+#: archive.php:29
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+# @ theretailer
+#: archive.php:36
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+# @ theretailer
+#: archive.php:44
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+# @ theretailer
+#: archive.php:47
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+# @ theretailer
+#: archive.php:50
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+# @ theretailer
+#: archive.php:53 sidebar-my_account.php:18 sidebar.php:18
+msgid "Archives"
+msgstr "Archivo"
+
+# @ theretailer
+#: comments.php:32
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ theretailer
+#: comments.php:39 comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+# @ theretailer
+#: comments.php:40 comments.php:60
+msgid "&larr; Older Comments"
+msgstr ""
+
+# @ theretailer
+#: comments.php:41 comments.php:61
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+# @ theretailer
+#: comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+# @ theretailer
+#: content-page.php:31 content-single.php:57 content.php:52 image.php:97
+#: inc/paginate.php:42
+msgid "Pages:"
+msgstr ""
+
+# @ theretailer
+#: content-page.php:32 content-single.php:45 content.php:63 image.php:38
+#: image.php:111 index.php:70 page-blog.php:74
+#: woocommerce/myaccount/my-address.php:83
+#: woocommerce/myaccount/my-address.php:118
+msgid "Edit"
+msgstr "Editar"
+
+# @ theretailer
+#: content-single.php:10 content.php:10 content.php:46 index.php:25
+#: index.php:55 page-blog.php:29 page-blog.php:59
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+# @ theretailer
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:16 content-single.php:26 content.php:17 content.php:27
+#: index.php:31 index.php:41 page-blog.php:35 page-blog.php:45
+msgid ", "
+msgstr ""
+
+# @ theretailer
+#: content-single.php:20 content.php:21 index.php:35 page-blog.php:39
+#, php-format
+msgid "Filed in: %1$s"
+msgstr "Archivado en: %1$s"
+
+# @ theretailer
+#: content-single.php:31 content.php:32 index.php:46 page-blog.php:50
+#, php-format
+msgid "Tags: %1$s"
+msgstr ""
+
+# @ theretailer
+#: content-single.php:42 content.php:60 index.php:67 page-blog.php:71
+msgid "Leave a comment"
+msgstr ""
+
+# @ theretailer
+#: content-single.php:42 content.php:60 index.php:67 page-blog.php:71
+msgid "1 Comment"
+msgstr ""
+
+# @ theretailer
+#: content-single.php:42 content.php:60 index.php:67 page-blog.php:71
+msgid "% Comments"
+msgstr ""
+
+# @ theretailer
+#: functions.php:155 inc/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+# @ theretailer
+#: functions.php:156 inc/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+# @ theretailer
+#: functions.php:157 inc/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+# @ theretailer
+#: functions.php:158
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+# @ theretailer
+#: functions.php:159 inc/class-tgm-plugin-activation.php:168
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ theretailer
+#: functions.php:160 inc/class-tgm-plugin-activation.php:169
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ theretailer
+#: functions.php:161 inc/class-tgm-plugin-activation.php:170
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ theretailer
+#: functions.php:162 inc/class-tgm-plugin-activation.php:171
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ theretailer
+#: functions.php:163 inc/class-tgm-plugin-activation.php:172
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ theretailer
+#: functions.php:164 inc/class-tgm-plugin-activation.php:173
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ theretailer
+#: functions.php:165 inc/class-tgm-plugin-activation.php:174
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ theretailer
+#: functions.php:166 inc/class-tgm-plugin-activation.php:175
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ theretailer
+#: functions.php:167 inc/class-tgm-plugin-activation.php:176
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ theretailer
+#: functions.php:168 inc/class-tgm-plugin-activation.php:177
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ theretailer
+#: functions.php:169 inc/class-tgm-plugin-activation.php:178
+#: inc/class-tgm-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+# @ theretailer
+#: functions.php:170 inc/class-tgm-plugin-activation.php:179
+#: inc/class-tgm-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr ""
+
+# @ theretailer
+#: functions.php:171
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+# @ theretailer
+#: functions.php:247
+msgid "Continue reading &raquo;"
+msgstr ""
+
+# @ theretailer
+#: functions.php:260
+msgctxt "post type general name"
+msgid "Portfolio"
+msgstr ""
+
+# @ theretailer
+#: functions.php:261
+msgctxt "post type singular name"
+msgid "Portfolio Item"
+msgstr ""
+
+# @ theretailer
+#: functions.php:262
+msgctxt "Portfolio Item"
+msgid "Add New"
+msgstr ""
+
+# @ theretailer
+#: functions.php:263
+msgid "Add New Portfolio item"
+msgstr ""
+
+# @ theretailer
+#: functions.php:264
+msgid "Edit Portfolio item"
+msgstr ""
+
+# @ theretailer
+#: functions.php:265
+msgid "New Portfolio item"
+msgstr ""
+
+# @ theretailer
+#: functions.php:266
+msgid "All Portfolio items"
+msgstr ""
+
+# @ theretailer
+#: functions.php:267
+msgid "View Portfolio item"
+msgstr ""
+
+# @ theretailer
+#: functions.php:268
+msgid "Search Portfolio item"
+msgstr ""
+
+# @ theretailer
+#: functions.php:269
+msgid "No Portfolio item found"
+msgstr ""
+
+# @ theretailer
+#: functions.php:270
+msgid "No Portfolio item found in Trash"
+msgstr ""
+
+# @ theretailer
+#: functions.php:1633
+msgid "Get Directions"
+msgstr ""
+
+# @ theretailer
+#: functions.php:1835
+msgid "Top Header Menu"
+msgstr ""
+
+# @ theretailer
+#: functions.php:1836
+msgid "Primary Menu"
+msgstr ""
+
+# @ theretailer
+#: functions.php:1837
+msgid "Secondary Menu"
+msgstr ""
+
+# @ theretailer
+#: functions.php:1838
+msgid "My Account Menu"
+msgstr ""
+
+# @ theretailer
+#: functions.php:1874 header.php:269
+msgid "Shopping Bag"
+msgstr "Carrito de compras"
+
+# @ theretailer
+#: functions.php:1875 header.php:270
+msgid "item(s)"
+msgstr "Producto(s)"
+
+# @ theretailer
+#: functions.php:1891 header.php:286
+msgid "Quantity:"
+msgstr "Cantidad:"
+
+# @ theretailer
+#: functions.php:1893 header.php:288 woocommerce/cart/cart.php:53
+msgid "Remove this item"
+msgstr ""
+
+# @ theretailer
+#: functions.php:1902 header.php:297
+msgid "Cart subtotal"
+msgstr "Subtotal  a pagar"
+
+# @ theretailer
+#: functions.php:1905 header.php:300
+msgid "View Shopping Bag"
+msgstr "ver cesta de la compra"
+
+# @ theretailer
+#: functions.php:1907 header.php:302 woocommerce/cart/cart.php:162
+msgid "Proceed to Checkout"
+msgstr "ir a la caja"
+
+# @ theretailer
+#: functions.php:1910 header.php:305
+msgid "No products in the cart."
+msgstr "No hay productos en el carrito."
+
+# @ theretailer
+#: functions.php:1947
+msgid "Sidebar"
+msgstr ""
+
+# @ theretailer
+#: functions.php:1956
+msgid "Product listing"
+msgstr ""
+
+# @ theretailer
+#: functions.php:1965
+msgid "Light footer"
+msgstr ""
+
+# @ theretailer
+#: functions.php:1974
+msgid "Dark footer"
+msgstr ""
+
+# @ theretailer
+#: header.php:187
+msgid "Navigation"
+msgstr ""
+
+# @ theretailer
+#: image.php:28
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+# @ theretailer
+#: image.php:42
+msgid "&larr; Previous"
+msgstr ""
+
+# @ theretailer
+#: image.php:43
+msgid "Next &rarr;"
+msgstr ""
+
+# @ theretailer
+#: image.php:103
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+# @ theretailer
+#: image.php:105
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+# @ theretailer
+#: image.php:107
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+# @ theretailer
+#: image.php:109
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:517
+#: inc/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1300
+#: woocommerce/myaccount/my-orders.php:82
+msgid "Status"
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1544
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1956
+#: inc/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1956
+#: inc/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+# @ theretailer
+#: inc/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ theretailer
+#: inc/extras.php:75
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+# @ theretailer
+#: inc/paginate.php:43
+msgid "&raquo;"
+msgstr ""
+
+# @ theretailer
+#: inc/paginate.php:43
+msgid "&laquo"
+msgstr ""
+
+# @ theretailer
+#: inc/template-tags.php:58
+msgid "Pingback:"
+msgstr ""
+
+# @ theretailer
+#: inc/template-tags.php:58 inc/template-tags.php:75
+msgid "(Edit)"
+msgstr ""
+
+# @ theretailer
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:73
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+# @ theretailer
+#: inc/template-tags.php:80
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ theretailer
+#: inc/template-tags.php:107
+#, php-format
+msgid ""
+"<span class=\"byline\"><span class=\"author vcard\"><a class=\"url fn n\" "
+"href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span> <a href="
+"\"%1$s\" title=\"%2$s\" rel=\"bookmark\" class=\"entry-date\"><time datetime="
+"\"%3$s\">%4$s</time></a>"
+msgstr ""
+
+# @ theretailer
+#: inc/template-tags.php:113
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+# @ theretailer
+#: inc/widgets/connect.php:12
+msgid "A widget that displays customized social icons "
+msgstr ""
+
+# @ theretailer
+#: inc/widgets/connect.php:16 inc/widgets/connect.php:74
+msgid "The Retailer Connect"
+msgstr ""
+
+# @ theretailer
+#: inc/widgets/connect.php:88
+msgid "Widget title:"
+msgstr ""
+
+# @ theretailer
+#: inc/widgets/connect.php:93
+msgid "Facebook URL"
+msgstr ""
+
+# @ theretailer
+#: inc/widgets/connect.php:98
+msgid "Pinterest URL"
+msgstr ""
+
+# @ theretailer
+#: inc/widgets/connect.php:103
+msgid "LinkedIn URL"
+msgstr ""
+
+# @ theretailer
+#: inc/widgets/connect.php:108
+msgid "Twitter URL"
+msgstr ""
+
+# @ theretailer
+#: inc/widgets/connect.php:113
+msgid "Google+ URL"
+msgstr ""
+
+# @ theretailer
+#: inc/widgets/connect.php:118
+msgid "RSS URL"
+msgstr ""
+
+# @ theretailer
+#: inc/widgets/connect.php:123
+msgid "Tumblr URL"
+msgstr ""
+
+# @ theretailer
+#: inc/widgets/connect.php:128
+msgid "Instagram URL"
+msgstr ""
+
+# @ theretailer
+#: inc/widgets/recent-posts.php:17
+msgid "A widget that displays recent posts "
+msgstr ""
+
+# @ theretailer
+#: inc/widgets/recent-posts.php:21
+msgid "The Retailer Recent Posts"
+msgstr ""
+
+# @ theretailer
+#: inc/widgets/recent-posts.php:41
+msgid "Recent Posts"
+msgstr ""
+
+# @ theretailer
+#: inc/widgets/recent-posts.php:94
+msgid "Title:"
+msgstr ""
+
+# @ theretailer
+#: inc/widgets/recent-posts.php:97
+msgid "Number of posts to show:"
+msgstr ""
+
+# @ theretailer
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr ""
+
+# @ theretailer
+#: no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+# @ theretailer
+#: no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+# @ theretailer
+#: no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+# @ theretailer
+#: page-archive.php:17
+msgid "The last posts"
+msgstr "Los últimos mensajes"
+
+# @ theretailer
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda para: %s"
+
+# @ theretailer
+#: searchform.php:10 searchform.php:12
+msgid "Search"
+msgstr "Buscar"
+
+# @ theretailer
+#: searchform.php:11
+msgid "Search &hellip;"
+msgstr "Buscar &hellip;"
+
+# @ theretailer
+#: sidebar-my_account.php:25 sidebar.php:25
+msgid "Meta"
+msgstr ""
+
+# @ theretailer
+#: single-portfolio.php:25
+msgid "Cat.:"
+msgstr ""
+
+# @ theretailer
+#: single-portfolio.php:34
+msgid "Description"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/archive-product.php:77
+msgid "No products found which match your selection."
+msgstr ""
+
+# @ theretailer
+#: woocommerce/cart/cart-empty.php:17 woocommerce/cart/empty.php:14
+msgid "Your cart is currently empty."
+msgstr "Su cesta está vacía."
+
+# @ theretailer
+#: woocommerce/cart/cart-empty.php:18 woocommerce/cart/empty.php:15
+msgid "Return To Shop"
+msgstr "Volver a la Tienda"
+
+# @ theretailer
+#: woocommerce/cart/cart.php:13
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ theretailer
+#: woocommerce/cart/cart.php:13
+msgid "found"
+msgstr "encontrado"
+
+# @ theretailer
+#: woocommerce/cart/cart.php:34
+msgid "Item"
+msgstr "Producto"
+
+# @ theretailer
+#: woocommerce/cart/cart.php:35
+msgid "Quantity"
+msgstr "Cantidad"
+
+# @ theretailer
+#: woocommerce/cart/cart.php:36 woocommerce/cart/totals.php:129
+#: woocommerce/checkout/review-order.php:26
+#: woocommerce/myaccount/my-orders.php:81
+#: woocommerce/order/order-details.php:24
+msgid "Total"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/cart/cart.php:79
+msgid "Available on backorder"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/cart/cart.php:141
+msgid "Have a coupon?"
+msgstr "¿Tiene un cupón?"
+
+# @ theretailer
+#: woocommerce/cart/cart.php:143
+msgid "Enter coupon code"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/cart/cart.php:144
+msgid "Apply"
+msgstr "Aplicar"
+
+# @ theretailer
+#: woocommerce/cart/cart.php:160
+msgid "Update Shopping Bag"
+msgstr "Actualizar cesta de la compra"
+
+# @ theretailer
+#: woocommerce/cart/cross-sells.php:58
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/cart/shipping-calculator.php:18
+msgid "Calculate Shipping"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/cart/shipping-calculator.php:22
+msgid "Select a country&hellip;"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/cart/shipping-calculator.php:48
+msgid "Select a state&hellip;"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/cart/shipping-calculator.php:59
+msgid "State"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/cart/shipping-calculator.php:67
+msgid "Postcode/Zip"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/cart/shipping-calculator.php:67
+msgid "Postcode"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/cart/shipping-calculator.php:70
+msgid "Update Totals"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/cart/totals.php:22
+msgid "Shopping Bag Totals"
+msgstr "TOTALES CESTA DE LA COMPRA"
+
+# @ theretailer
+#: woocommerce/cart/totals.php:28 woocommerce/cart/totals.php:92
+#: woocommerce/checkout/review-order.php:97
+msgid "Subtotal"
+msgstr "total parcial"
+
+# @ theretailer
+#: woocommerce/cart/totals.php:35 woocommerce/checkout/review-order.php:38
+msgid "Cart Discount"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/cart/totals.php:35 woocommerce/cart/totals.php:120
+msgid "[Remove]"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/cart/totals.php:46 woocommerce/checkout/review-order.php:49
+msgid "Shipping"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/cart/totals.php:110 woocommerce/checkout/review-order.php:117
+msgid "Tax"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/cart/totals.php:120 woocommerce/checkout/review-order.php:128
+msgid "Order Discount"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/cart/totals.php:145 woocommerce/checkout/review-order.php:155
+#, php-format
+msgid "(Includes %s)"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/cart/totals.php:161
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/cart/totals.php:163
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+# @ theretailer
+#: woocommerce/cart/totals.php:175
+msgid ""
+"No shipping methods were found; please recalculate your shipping and enter "
+"your state/county and zip/postcode to ensure there are no other available "
+"methods for your location."
+msgstr ""
+
+# @ theretailer
+#: woocommerce/cart/totals.php:187
+#, php-format
+msgid ""
+"Sorry, it seems that there are no available shipping methods for your "
+"location (%s)."
+msgstr ""
+
+# @ theretailer
+#: woocommerce/cart/totals.php:187
+msgid ""
+"If you require assistance or wish to make alternate arrangements please "
+"contact us."
+msgstr ""
+
+# @ theretailer
+#: woocommerce/checkout/form-billing.php:33
+msgid "Create an account"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/checkout/form-billing.php:39
+msgid "Create an account?"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/checkout/form-billing.php:48
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+# @ theretailer
+#: woocommerce/checkout/form-billing.php:58
+#: woocommerce/checkout/form-billing.php:96
+#: woocommerce/checkout/form-checkout.php:39
+#: woocommerce/checkout/form-shipping.php:75
+msgid "Continue &raquo;"
+msgstr "Continuar &raquo;"
+
+# @ theretailer
+#: woocommerce/checkout/form-billing.php:74
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/checkout/form-billing.php:78
+#: woocommerce/myaccount/form-edit-address.php:54
+#: woocommerce/myaccount/my-address.php:58
+#: woocommerce/order/order-details.php:118
+msgid "Billing Address"
+msgstr "dirección de facturación"
+
+# @ theretailer
+#: woocommerce/checkout/form-checkout.php:21
+msgid "Checkout method"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/checkout/form-checkout.php:26
+msgid "Returning customers"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/checkout/form-checkout.php:36
+msgid "New customers"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/checkout/form-checkout.php:37
+msgid "Checkout as Guest"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/checkout/form-checkout.php:38
+msgid "Create an Account with Us"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/checkout/form-checkout.php:51
+msgid "You must be logged in to checkout."
+msgstr ""
+
+# @ theretailer
+#: woocommerce/checkout/form-login-checkout.php:11
+#: woocommerce/myaccount/form-login.php:29
+msgid "Username or email"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/checkout/form-login-checkout.php:15
+#: woocommerce/myaccount/form-login.php:33
+#: woocommerce/myaccount/form-login.php:78
+msgid "Password"
+msgstr "Contraseña"
+
+# @ theretailer
+#: woocommerce/checkout/form-login-checkout.php:22
+#: woocommerce/myaccount/form-login.php:41
+#: woocommerce/myaccount/form-login.php:122
+msgid "Login"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/checkout/form-login-checkout.php:23
+#: woocommerce/myaccount/form-login.php:40
+msgid "Lost Password?"
+msgstr "Perdió su contraseña?"
+
+# @ theretailer
+#: woocommerce/checkout/form-login.php:13
+msgid "Already registered?"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/checkout/form-login.php:16
+msgid "Click here to login"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/checkout/form-login.php:18
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+# @ theretailer
+#: woocommerce/checkout/form-shipping.php:28
+#: woocommerce/myaccount/form-edit-address.php:54
+#: woocommerce/myaccount/my-address.php:93
+#: woocommerce/order/order-details.php:133
+msgid "Shipping Address"
+msgstr "Dirección de envío"
+
+# @ theretailer
+#: woocommerce/checkout/form-shipping.php:34
+msgid "Ship to billing address?"
+msgstr "Enviamos a la dirección de facturación?"
+
+# @ theretailer
+#: woocommerce/checkout/form-shipping.php:61
+msgid "Additional Information"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/checkout/review-order.php:18
+msgid "Your order"
+msgstr "Su pedido"
+
+# @ theretailer
+#: woocommerce/checkout/review-order.php:25
+#: woocommerce/order/order-details.php:23
+msgid "Product"
+msgstr "Producto"
+
+# @ theretailer
+#: woocommerce/checkout/review-order.php:31
+msgid "Cart Subtotal"
+msgstr "Subtotal a pagar"
+
+# @ theretailer
+#: woocommerce/checkout/review-order.php:137
+msgid "Order Total"
+msgstr "total del pedido"
+
+# @ theretailer
+#: woocommerce/checkout/review-order.php:229
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+# @ theretailer
+#: woocommerce/checkout/review-order.php:231
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+# @ theretailer
+#: woocommerce/checkout/review-order.php:240
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+"Debido a que su navegador no soporta JavaScript o está desactivado, por "
+"favor, asegúrese de hacer clic en la actualización de los totales "
+"<em>Actualizar totales</em> botón antes de realizar su pedido. Se le puede "
+"cobrar más de la cantidad indicada anteriormente, si usted no puede hacerlo."
+
+# @ theretailer
+#: woocommerce/checkout/review-order.php:240
+msgid "Update totals"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/checkout/review-order.php:246
+msgid "Place order"
+msgstr "Encargarlo"
+
+# @ theretailer
+#: woocommerce/checkout/review-order.php:250
+msgid "I have read and accept the"
+msgstr "He leído y acepto los"
+
+# @ theretailer
+#: woocommerce/checkout/review-order.php:250
+msgid "terms &amp; conditions"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/content-product-slider.php:110
+#: woocommerce/content-product-slider.php:127
+msgid "Read More"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/content-product-slider.php:119
+msgid "Select options"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/content-product-slider.php:123
+msgid "View options"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/content-product-slider.php:131
+#: woocommerce/single-product/add-to-cart/grouped.php:49
+#: woocommerce/single-product/add-to-cart/grouped.php:79
+#: woocommerce/single-product/add-to-cart/simple.php:41
+#: woocommerce/single-product/add-to-cart/variable.php:85
+#: woocommerce/single-product/add-to-cart/variable_v1.3.php:89
+#: woocommerce/single-product/add-to-cart/variable_v1.3.php:175
+msgid "Add to cart"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/content-single-product.php:7
+msgctxt "slug"
+msgid "product-category"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/content-single-product.php:52
+#: woocommerce/content-single-product.php:156
+msgid "Back to "
+msgstr ""
+
+# @ theretailer
+#: woocommerce/content-single-product.php:58
+#: woocommerce/content-single-product.php:162
+msgid "Prev / Next"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/content-single-product.php:94
+#: woocommerce/single-product/title.php:42
+#: woocommerce/single-product-reviews.php:46
+msgid "Reviews"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/content-single-product.php:94
+#: woocommerce/single-product/title.php:42
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/content-single-product.php:94
+#: woocommerce/single-product/review.php:22
+#: woocommerce/single-product/title.php:42
+msgid "out of 5"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/content-single-product.php:202
+msgid "<span>Share</span> on Facebook"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/content-single-product.php:203
+msgid "<span>Pin</span> this item"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/content-single-product.php:204
+msgid "<span>Email</span> a friend"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/content-single-product.php:205
+msgid "<span>Tweet</span> this item"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/loop/orderby.php:22
+msgid "Default sorting"
+msgstr "clasificación por defecto"
+
+# @ theretailer
+#: woocommerce/loop/orderby.php:23
+msgid "Sort by popularity"
+msgstr "Ordenar por popularidad"
+
+# @ theretailer
+#: woocommerce/loop/orderby.php:24
+msgid "Sort by average rating"
+msgstr "Ordenar por valoración media"
+
+# @ theretailer
+#: woocommerce/loop/orderby.php:25
+msgid "Sort by newness"
+msgstr "Ordenar por novedad"
+
+# @ theretailer
+#: woocommerce/loop/orderby.php:26
+msgid "Sort by price: low to high"
+msgstr "Ordenar por precio: de menor a mayor"
+
+# @ theretailer
+#: woocommerce/loop/orderby.php:27
+msgid "Sort by price: high to low"
+msgstr "Ordenar por precio: de mayor a menor"
+
+# @ theretailer
+#: woocommerce/loop/result-count.php:29
+msgid "Showing the single result"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/loop/result-count.php:31
+#, php-format
+msgid "Showing all %d results"
+msgstr "Mostrando todos los %d resultados"
+
+# @ theretailer
+#: woocommerce/loop/result-count.php:33
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d–%2$d of %3$d results"
+msgstr "Mostrando %1$d–%2$d de %3$d resultados"
+
+# @ theretailer
+#: woocommerce/myaccount/form-change-password_.php:44
+msgid "Change password"
+msgstr "Cambiar contraseña"
+
+# @ theretailer
+#: woocommerce/myaccount/form-change-password_.php:49
+msgid "New password"
+msgstr "Nueva contraseña"
+
+# @ theretailer
+#: woocommerce/myaccount/form-change-password_.php:53
+msgid "Re-enter new password"
+msgstr "Volver a introducir la nueva contraseña"
+
+# @ theretailer
+#: woocommerce/myaccount/form-change-password_.php:59
+msgid "Save"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/myaccount/form-edit-address.php:73
+msgid "Save Address"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/myaccount/form-login.php:26
+#: woocommerce/myaccount/form-login.php:120
+msgid "I'm a Returning Customer"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/myaccount/form-login.php:54
+#: woocommerce/myaccount/form-login.php:94
+#: woocommerce/myaccount/form-login.php:115
+#: woocommerce/myaccount/form-login.php:117
+msgid "Register"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/myaccount/form-login.php:59
+msgid "Username"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/myaccount/form-login.php:71
+#: woocommerce/single-product-reviews.php:90
+msgid "Email"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/myaccount/form-login.php:82
+msgid "Re-enter password"
+msgstr "Vuelva a escribir la contraseña"
+
+# @ theretailer
+#: woocommerce/myaccount/my-account.php:13
+#, php-format
+msgid ""
+"<span>Hello %s.</span>From your account dashboard you can view your recent "
+"orders, manage your shipping and billing addresses and <a href=\"%s\">change "
+"your password</a>."
+msgstr ""
+"<span>Hola %s.</span>Del tablero de su cuenta podrá ver sus pedidos "
+"recientes, administrar sus direcciones de envío y facturación y <a href=\"%s"
+"\">cambiar su contraseña</a>."
+
+# @ theretailer
+#: woocommerce/myaccount/my-account.php:56
+msgid "Available downloads"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/myaccount/my-account.php:59
+msgid "&nbsp;download remaining"
+msgid_plural "&nbsp;downloads remaining"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ theretailer
+#: woocommerce/myaccount/my-address.php:46
+msgid "My Address"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/myaccount/my-address.php:47
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+# @ theretailer
+#: woocommerce/myaccount/my-address.php:78
+msgid "You have not set up a billing address yet."
+msgstr "Usted no ha configurado una dirección de facturación todavía."
+
+# @ theretailer
+#: woocommerce/myaccount/my-address.php:113
+msgid "You have not set up a shipping address yet."
+msgstr "Usted no ha configurado una dirección de envío aún."
+
+# @ theretailer
+#: woocommerce/myaccount/my-orders.php:70
+msgid "Recent Orders"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/myaccount/my-orders.php:79
+msgid "Order"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/myaccount/my-orders.php:80
+msgid "Ship to"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/myaccount/my-orders.php:83
+msgid "Details"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/myaccount/my-orders.php:104
+msgid "Click to cancel this order"
+msgstr "Haga clic aquí para cancelar esta orden"
+
+# @ theretailer
+#: woocommerce/myaccount/my-orders.php:104
+msgid "Cancel"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/myaccount/my-orders.php:110
+msgid "Pay"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/myaccount/my-orders.php:113
+msgid "View"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/myaccount/my-orders.php:125
+msgid "You have no recent orders."
+msgstr ""
+
+# @ theretailer
+#: woocommerce/order/form-tracking.php:15
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"return. This was given to you on your receipt and in the confirmation email "
+"you should have received."
+msgstr ""
+"Para el seguimiento de su pedido, por favor, introduzca su ID de pedido en "
+"el campo de abajo y pulse Intro. Esto fue dado a usted en el recibo y en el "
+"correo electrónico de confirmación que debería haber recibido."
+
+# @ theretailer
+#: woocommerce/order/form-tracking.php:19
+msgid "Order ID"
+msgstr "ID del pedido"
+
+# @ theretailer
+#: woocommerce/order/form-tracking.php:19
+msgid "Found in your order confirmation email."
+msgstr "Se encuentra en el correo electrónico de confirmación del pedido."
+
+# @ theretailer
+#: woocommerce/order/form-tracking.php:20
+msgid "Billing Email"
+msgstr "Facturación Email"
+
+# @ theretailer
+#: woocommerce/order/form-tracking.php:20
+msgid "Email you used during checkout."
+msgstr "Correo electrónico que utilizó durante la verificación."
+
+# @ theretailer
+#: woocommerce/order/form-tracking.php:23
+msgid "Track"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/order/order-details.php:19
+msgid "Order Details"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/order/order-details.php:67
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/order/order-details.php:93
+msgid "Order Again"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/order/order-details.php:100
+msgid "Customer details"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/order/order-details.php:104
+msgid "Email:"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/order/order-details.php:105
+msgid "Telephone:"
+msgstr "Telefono:"
+
+# @ theretailer
+#: woocommerce/order/order-details.php:122
+#: woocommerce/order/order-details.php:137
+msgid "N/A"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/order/tracking.php:16
+#, php-format
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/order/tracking.php:16
+msgid "ago"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/order/tracking.php:18
+msgid "and was completed"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/order/tracking.php:18
+msgid " ago"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/order/tracking.php:29
+msgid "Order Updates"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/single-product/add-to-cart/variable.php:26
+#: woocommerce/single-product/add-to-cart/variable_v1.3.php:35
+#: woocommerce/single-product/add-to-cart/variable_v1.3.php:135
+msgid "Choose an option"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/single-product/add-to-cart/variable.php:71
+#: woocommerce/single-product/add-to-cart/variable_v1.3.php:75
+#: woocommerce/single-product/add-to-cart/variable_v1.3.php:161
+msgid "Clear selection"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/single-product/meta.php:21
+msgid "SKU:"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/single-product/meta.php:26
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ theretailer
+#: woocommerce/single-product/meta.php:31
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ theretailer
+#: woocommerce/single-product/related.php:75
+msgid "Related Products"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/single-product/review.php:26
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/single-product/review.php:33
+msgid "verified owner"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/single-product/review.php:35
+msgid "M jS Y"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/single-product/up-sells.php:73
+msgid "You may also like&hellip;"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/single-product-reviews.php:40
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ theretailer
+#: woocommerce/single-product-reviews.php:62
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/single-product-reviews.php:63
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/single-product-reviews.php:67
+msgid "Add Review"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/single-product-reviews.php:69
+msgid "Add a review"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/single-product-reviews.php:73
+msgid "Be the first to review"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/single-product-reviews.php:75
+msgid ""
+"There are no reviews yet, would you like to <a href=\"#review_form\" class="
+"\"inline show_review_form\">submit yours</a>?"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/single-product-reviews.php:88
+msgid "Name"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/single-product-reviews.php:93
+msgid "Submit Review"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/single-product-reviews.php:100
+msgid "Rating"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/single-product-reviews.php:101
+msgid "Rate&hellip;"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/single-product-reviews.php:102
+msgid "Perfect"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/single-product-reviews.php:103
+msgid "Good"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/single-product-reviews.php:104
+msgid "Average"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/single-product-reviews.php:105
+msgid "Not that bad"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/single-product-reviews.php:106
+msgid "Very Poor"
+msgstr ""
+
+# @ theretailer
+#: woocommerce/single-product-reviews.php:111
+msgid "Your Review"
+msgstr ""

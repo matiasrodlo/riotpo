@@ -1,0 +1,23 @@
+*** WooCommerce Points and Rewards Changelog ***
+
+2013.09.05 - version 1.0.5
+ * Resolved issues with textdomains
+ * Use line item prices for calculating points (compatibility with dynamic pricing)
+
+2013.09.01 - version 1.0.4
+ * Allow earn points conversion rate to be zero.
+
+2013.08.12 - version 1.0.3
+ * Save points for subscription products.
+ * Add esc_js to "show all customers" string.
+
+2013.07.30 - version 1.0.2
+ * Tweak - Points are no longer earned on order discounts
+ * Tweak - Full point required for a partial dollar discount (ie a $1.01 discount would require 2 points)
+ * Fix - Other coupons/discounts are respected when applying points for a product discount
+
+2013.06.22 - version 1.0.1
+ * Fix - Show a points message on the single product page for variable products with variations that all have the same price
+
+2013.06.13 - version 1.0
+ * Initial Release

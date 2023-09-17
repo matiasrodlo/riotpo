@@ -1,0 +1,102 @@
+*** Loyalty Rewards for WooCommerce Changelog ***
+
+v2.0.6 – August 08 2013
+Added table of predefined points values
+Fixed Extra rewards
+
+v2.0.5 – April 28 2013
+Added user role selection
+Updated .po
+
+v2.0.4 – April 20 2013
+Fixed bug with Woo no-cache
+Fixed bug in view-rewards
+
+v2.0.3 – April 16 2013
+Fixed bug with Woo 2.0.7
+
+v2.0.2 – April 05 2013
+Fixed syntax with NuSOAP for Piece
+
+v2.0.1 – March 16 2013
+Fixed Woocommerce 2
+Fixed comments rewards with Woocommerce 2
+Fixed woocommerce-info class for Woo2
+Fixed warning when changing product variations
+Added Payment Gateway's extra
+Added Option to not deduct shipping with using rewards
+Added shortcode and function in documentation to show product rewards to be earned
+Added subscription rewards attribution
+Added a link to rewards text
+
+v1.1.9.5 – January 07 2013
+Fixed checkout with use button
+Fixed give older order button
+
+v1.1.9.4 – December 21 2012
+Changed tooltip to works in WooCommerce 1.6 and 2.0
+
+v1.1.9.3 – December 11 2012
+Added fallback method to "use_my_rewards" button for missing hooks on themes
+
+v1.1.9.2 – November 09 2012
+Really fixed issue for Use my rewards checkbox on checkout
+
+v1.1.9.1 – November 06 2012
+Fixed issue for Use my rewards checkbox on checkout
+
+v1.1.9 – October 15 2012
+Added Auto-Update feature in Wordpress
+Added Coupon types to give rewards
+Fixed issue with grouped product
+Added text to completed email
+
+v1.1.8 – October 08 2012
+Fixed issue with money not being formatted
+
+v1.1.7 – September 29 2012
+Added Rewards to users list
+
+v1.1.6 – September 25 2012
+Text changed
+
+v1.1.5 – September 24 2012
+Text changed to make sense!
+Fixed settings scripts
+Fixed security problem
+
+v1.1.4 – September 22 2012
+Added filter hooks to plugin
+Fixed bug in admin when showing how much points customer has used
+
+v1.1.3 – August 26 2012
+Fixed bug with subtotal
+
+v1.1.2 – August 26 2012
+Fixed bug in paypal when canceling the order
+
+v1.1.1 – August 18 2012
+Added: Setting “Rewards to rewards” to give or not rewards when customer used his rewards in an order
+Fixed a bug in admin when changing a user rewards value
+Fixed a bug in admin with the .js not being loaded
+Fixed a bug when calculating percentage of rewards
+Fixed a bug when using rewards money and > 999$
+Fixed a bug when using rewards and total amount of cart is zero
+Calculating rewards used now works with coupon
+
+v1.1.0 – August 04 2012
+Points system with exchange to money at the checkout
+Extra rewards per item (Works with every kind of products)
+Show rewards earned in emails
+Give rewards for item review only to certified buyer
+Subtract rewards when order is canceled/deleted
+Show rewards in the product page (With auto update when the quantity or variation has changed)
+Give rewards to older orders
+Added useful php functions in documentation
+
+v1.0.1 – June 30 2012
+Updated documentation
+Prepared for points system
+
+v1.0.0 – June 29 2012
+First release

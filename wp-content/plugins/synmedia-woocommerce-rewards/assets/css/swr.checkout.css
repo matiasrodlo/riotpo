@@ -1,0 +1,30 @@
+.swr_use_rewards{
+	padding: .55em 1em .55em 1em;
+	position: static;
+	margin: 0em 0 2em;
+}
+
+.swr_use_rewards::before{
+	background: none;
+}
+
+.marginTop2em{
+	margin-top: 2em;
+}
+
+.dontshow{
+	display:none;
+}
+
+#rewards_value{
+	list-style: none outside;
+	margin: 0;
+	padding: 0;
+}
+
+#rewards_value li{
+	margin: 0;
+padding: .25em 0 .25em 22px;
+text-indent: -22px;
+list-style: none outside;
+}

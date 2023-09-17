@@ -1,0 +1,73 @@
+
+#facebookpopup-fanback {
+display:none;
+background:rgba(0,0,0,0.8);
+width:100%;
+height:100%;
+position:fixed;
+top:0;
+left:0;
+z-index:99999;
+}
+#facebookpopup-fan-exit {
+width:100%;
+height:100%;
+}
+#facebookpopup-fanbox {
+background:white;
+height:308px;
+position:absolute;
+top:58%;
+left:63%;
+margin:-220px 0 0 -375px;
+-webkit-box-shadow: inset 0 0 50px 0 #939393;
+-moz-box-shadow: inset 0 0 50px 0 #939393;
+box-shadow: inset 0 0 50px 0 #939393;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+margin: -220px 0 0 -375px;
+}
+#facebookpopup-fanclose {
+float:right;
+cursor:pointer;
+background:url(../img/fanclose.png) no-repeat;
+height:56px;
+padding-left:20px;
+position:relative;
+padding-right:40px;
+margin-top:-20px;
+margin-right:-22px;
+}
+.facebookpopup-remove-border {
+height:1px;
+width:366px;
+margin:0 auto;
+margin-top:16px;
+position:relative;
+margin-left:20px;
+}
+#facebookpopup-linkit a.visited,#facebookpopup-linkit a,#facebookpopup-linkit a:hover {
+color:#80808B;
+font-size:10px;
+margin: 0 auto 5px auto;
+float:center;
+}
+
+@media screen and (max-width: 767px) {
+    #facebookpopup-fanbox {
+        width:98%;
+        left:1%;
+        margin:-220px 0 0 0px;
+    }
+    
+    .fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
+        width: 100% !important;
+    }
+    
+    .fb-like-box > span > iframe[style] {width: 100% !important;}
+
+    #fb-root {
+        display: none;
+    }
+}
