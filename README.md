@@ -25,7 +25,7 @@ Riotpo is an online store dedicated to League of Legends fans, offering a curate
 
 ## Technology Stack
 
-- **Backend**: WordPress CMS
+- **Backend**: WordPress CMS, PHP
 - **Frontend**: HTML, CSS, JavaScript
 - **Database**: MySQL
 - **Server**: Apache/Nginx
