@@ -1,6 +1,6 @@
 # League of Legends E-Commerce Platform
 
-A comprehensive e-commerce platform built with WordPress, specializing in League of Legends merchandise, in-game items, and exclusive accessories. This project was my first venture after finishing high school, and it represents the starting point of my journey into web development and e-commerce.
+A comprehensive e-commerce platform built with WordPress, specializing in League of Legends merchandise, in-game items, and exclusive accessories. This project was my first venture after finishing high school, and it represents the starting point of my journey into web development and e-commerce. I worked on this project around 2014, and it has been a significant learning experience and a foundation for my future projects.
 
 Check out our product demo: [RiotPO Demo Video](https://youtu.be/36pmUOyMXk0)
 
