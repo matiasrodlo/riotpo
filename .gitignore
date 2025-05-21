@@ -1,0 +1,101 @@
+# WordPress Core Files
+wp-config.php
+wp-content/advanced-cache.php
+wp-content/backup-db/
+wp-content/backups/
+wp-content/blogs.dir/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/uploads/
+wp-content/mu-plugins/
+wp-content/wp-cache-config.php
+wp-content/plugins/hello.php
+
+# WordPress Debug Log
+debug.log
+error_log
+
+# WordPress Database
+*.sql
+*.sqlite
+
+# WordPress Security
+.htaccess
+*.htaccess
+
+# WordPress Configuration
+wp-config-sample.php
+wp-config-local.php
+
+# WordPress Content
+wp-content/plugins/*
+!wp-content/plugins/hello.php
+wp-content/themes/*
+!wp-content/themes/twentytwenty*
+wp-content/languages/*
+!wp-content/languages/index.php
+
+# WordPress Cache
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backup*/
+wp-content/backups/
+
+# WordPress Uploads
+wp-content/uploads/
+
+# Development Files
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*.swo
+*.bak
+*.tmp
+*.temp
+
+# IDE Files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Node Modules and Dependencies
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Build and Distribution
+dist/
+build/
+*.zip
+*.tar.gz
+
+# Environment Files
+.env
+.env.*
+!.env.example
+
+# Composer
+vendor/
+composer.lock
+
+# Temporary Files
+*.tmp
+*.temp
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db 
