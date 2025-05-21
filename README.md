@@ -4,7 +4,7 @@ A comprehensive e-commerce platform built with WordPress, specializing in League
 
 Check out our product demo: [RiotPO Demo Video](https://youtu.be/36pmUOyMXk0)
 
-[![RiotPO Website Preview](https://github-production-user-asset-6210df.s3.amazonaws.com/52969662/281577732-a99acf93-cdaa-41ba-92ea-675b43a23f37.png)](https://youtu.be/36pmUOyMXk0)
+[![Riotpo Website Preview](https://github-production-user-asset-6210df.s3.amazonaws.com/52969662/281577732-a99acf93-cdaa-41ba-92ea-675b43a23f37.png)](https://youtu.be/36pmUOyMXk0)
 
 ## Project Overview
 
@@ -69,7 +69,7 @@ Riotpo is an online store dedicated to League of Legends fans, offering a curate
 
 ```
 riotpo/
-├── wordpress/          # WordPress core files
+├── web/          # WordPress core files
 ├── docs/              # Documentation and assets
 │   ├── products/      # Product images and data
 │   └── logo/          # Brand assets
